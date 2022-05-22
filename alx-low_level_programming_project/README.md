@@ -1,3 +1,4 @@
 # ALX low level programming group project
-Sophia Dawodu
-Shittu Moyo
+project done byt team of two:
+    Sophia Dawodu and
+    Shittu Moyo
